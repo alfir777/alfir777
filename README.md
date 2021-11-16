@@ -11,3 +11,4 @@
 - ⚙️ Docker
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alfir777&show_icons=true&hide_border=true&theme=gotham"  alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfir777&layout=compact&count_private=true&theme=gruvbox"  alt="abhisheknaiidu" />
