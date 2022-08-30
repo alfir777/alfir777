@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 - 🌱 My name is Al'fir, I’m a learning Python
-- 🔭 I’m currently working sysadmin
-- 🤔 I’m interested in back-end
+- 🔭 I’m currently working Backend Python Developer
 - 💬 How to reach me: [Telegram](https://t.me/JaTu7)
 
 ## Skills
