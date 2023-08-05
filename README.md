@@ -11,3 +11,5 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alfir777&show_icons=true&hide_border=true&theme=gotham"  alt="abhisheknaiidu" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfir777&layout=compact&count_private=true&theme=gruvbox"  alt="abhisheknaiidu" />
+<br/><br/>
+<img align="left" src="https://komarev.com/ghpvc/?username=alfir777&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="alfir777" />
