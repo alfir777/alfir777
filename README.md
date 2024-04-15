@@ -2,7 +2,7 @@
  
 - 🌱 My name is Al'fir, I’m a learning Python
 - 🔭 I’m currently working Backend Python Developer
-- 💬 How to reach me: [Telegram](https://t.me/JaTu7)
+- 💬 How to reach me: [Telegram](https://t.me/JaTu8)
 
 ## Skills
 - 👨‍💻 Python
